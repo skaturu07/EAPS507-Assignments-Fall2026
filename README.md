@@ -1,6 +1,7 @@
 # EAPS507-Assignments-Fall2026
 This repository includes all of my completed EAPS 507 assignments of Fall 2026. They are Python files from Jupyter notebook and include analyses for each part of the code for each assignment, as well as the output of the code. 
 # Assignments 
+
 **Assignment 1 Python Fundamentals Through Examples**: This assignment was about understanding fundamentals of Python through different examples. The certain example chosen was the Madhava Pi calculation. There was a use of functions, if/else, for loops, importing plots, and getting results out of it. There was an analysis on the code and what we learned from the code as well as what the figure meant and the challenging aspects of it. 
 
 **Assignment 2 Last Class Refresher**: This assignment was about understanding the basics of functions. There were functions created to calculate problems and printing the results of it. There was also more details on local and global scope. 
